@@ -15,6 +15,7 @@ These laws and web filters are too aggressive, restrictive, and harsh. We believ
 
 Our goal is to have the ability to remove <a href=https://www.lightspeedsystems.com/>Lightspeed Systems</a> from school laptops, and grow free internet access.
 
+</details>
   <summary>Our Official Projects</summary>
   <pre>
   - Now.gg-X | Pxl10 & Pxl12
