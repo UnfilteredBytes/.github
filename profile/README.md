@@ -35,7 +35,7 @@ Our goal is to have the ability to remove <a href=https://www.lightspeedsystems.
   <summary>Our Official Projects</summary>
   <pre>
   - Now.gg-X | Pxl10 & Pxl12
-  - UltraPox | Pxl10 $ Pxl12 [IN PROGRESS]
+  - UltraPox V1 | Pxl10 $ Pxl12 
   - This will grow in the future.
   </pre>
 </details>
